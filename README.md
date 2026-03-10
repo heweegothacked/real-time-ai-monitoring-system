@@ -168,20 +168,6 @@ When you run the dashboard, you'll see:
 4. **Anomaly Timeline**: Highlighted unusual readings
 5. **Statistical Summary**: Mean, standard deviation, and distribution analysis
 
-## 🎯 Resume Highlights
-
-When adding this project to your resume, emphasize:
-
-- **Real-time data processing** with Python and Pandas
-- **Machine learning implementation** using scikit-learn (anomaly detection & prediction)
-- **Data visualization** with Plotly and Streamlit
-- **Full-stack project** from data generation to web dashboard
-- **Clean code practices** with documentation and type hints
-- **User interface design** with interactive web applications
-
-### Sample Resume Description
-
-> Developed a real-time monitoring system with AI predictions. Built an interactive Streamlit dashboard to visualize sensor data and machine learning predictions. Implemented anomaly detection using Isolation Forest and trend prediction using Linear Regression, achieving 85% accuracy in identifying anomalies. Technologies: Python, Pandas, Scikit-learn, Streamlit, Plotly.
 
 ## 🔍 Troubleshooting
 
